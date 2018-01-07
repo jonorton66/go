@@ -1,6 +1,11 @@
 package main
-import "fmt"
+
+import (
+	"fmt"
+
+	"~/Dev/go/src/stringutil/reverse.go"
+)
 
 func main() {
-	fmt.Printf("Hello World\n")
+	fmt.Printf(stringutil.Reverse("!oG ,olleH"))
 }
