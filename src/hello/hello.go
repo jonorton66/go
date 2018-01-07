@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"~/Dev/go/src/stringutil/reverse.go"
+	"/stringutil"
 )
 
 func main() {
