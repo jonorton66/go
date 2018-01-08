@@ -3,9 +3,10 @@ package main
 import (
 	"fmt"
 
-	"stringutil"
+//	"stringutil"
 )
 
 func main() {
-	fmt.Printf(stringutil.Reverse("!oG ,olleH"))
+//	fmt.Printf(stringutil.Reverse("!oG ,olleH"))
+	fmt.Printf("Hello World\n")
 }
